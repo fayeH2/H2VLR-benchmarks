@@ -18,7 +18,7 @@
   <img alt="license" src="https://img.shields.io/badge/license-see%20method%20subdirs-yellow">
 </p>
 
-This repository provides the **reproduction code of the comparison methods** used in the **H2VLR** project, covering both **industrial** and **medical** few-shot anomaly detection (FSAD). Each method is kept self-contained under its own directory together with the original license, so that its results can be verified independently.
+This repository provides the **reproduction code of the comparison methods** used in the **H2VLR** project, covering both **industrial** and **medical** few-shot anomaly detection (FSAD). 
 
 ## 📢 News
 
@@ -33,7 +33,6 @@ This benchmark collects the **8 representative FSAD baselines** adopted in H2VLR
 - the **data loaders** used for the industrial / medical protocols,
 - the **required configs** (e.g. prompt / class-histogram files).
 
-> **Note on paths.** All personal absolute paths have been replaced with neutral placeholders (e.g. `/path/to/datasets`). Please set the dataset root and interpreter path for your own machine before running.
 
 ### Industrial & Medical Protocols
 
@@ -113,12 +112,12 @@ python train.py ...    # train on support set (few-shot)
 python test.py  ...    # evaluate image-/pixel-level AUROC, AP, F1
 ```
 
-Refer to the `README.md` inside each method directory for the exact arguments.
+
 
 ## 📧 Email
 
-If you have any questions, please contact us via email (**with the subject of H2VLR-benchmarks**): [202322080221@std.uestc.edu.cn](mailto:202322080221@std.uestc.edu.cn)
+Contact us via email: [202322080221@std.uestc.edu.cn](mailto:202322080221@std.uestc.edu.cn)
 
 ## 🏷️ License
 
-This benchmark aggregates several third-party repositories for academic comparison. **Each method retains its original license** (see the `LICENSE` file inside each sub-directory). Please respect the corresponding license when using or redistributing the code.
+This benchmark aggregates several third-party repositories for academic comparison. **Each method retains its original license** (see the `LICENSE` file inside each sub-directory). 
