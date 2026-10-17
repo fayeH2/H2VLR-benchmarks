@@ -116,7 +116,7 @@ python test.py  ...    # evaluate image-/pixel-level AUROC, AP, F1
 
 ## 📧 Email
 
-Contact us via email: [202322080221@std.uestc.edu.cn](mailto:202322080221@std.uestc.edu.cn)
+Contact us via email: [jianghong@std.uestc.edu.cn](mailto:jianghong@std.uestc.edu.cn)
 
 ## 🏷️ License
 
