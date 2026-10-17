@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "grid",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "grid/train/good/136.png"
+    ],
+    [
+      "grid/train/good/222.png"
+    ],
+    [
+      "grid/train/good/172.png"
+    ],
+    [
+      "grid/train/good/159.png"
+    ],
+    [
+      "grid/train/good/201.png"
+    ],
+    [
+      "grid/train/good/053.png"
+    ],
+    [
+      "grid/train/good/167.png"
+    ],
+    [
+      "grid/train/good/019.png"
+    ],
+    [
+      "grid/train/good/260.png"
+    ],
+    [
+      "grid/train/good/064.png"
+    ]
+  ]
+}

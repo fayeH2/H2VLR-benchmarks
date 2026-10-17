@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "chewinggum",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "chewinggum/train/good/074.JPG"
+    ],
+    [
+      "chewinggum/train/good/030.JPG"
+    ],
+    [
+      "chewinggum/train/good/372.JPG"
+    ],
+    [
+      "chewinggum/train/good/299.JPG"
+    ],
+    [
+      "chewinggum/train/good/265.JPG"
+    ],
+    [
+      "chewinggum/train/good/003.JPG"
+    ],
+    [
+      "chewinggum/train/good/114.JPG"
+    ],
+    [
+      "chewinggum/train/good/188.JPG"
+    ],
+    [
+      "chewinggum/train/good/349.JPG"
+    ],
+    [
+      "chewinggum/train/good/005.JPG"
+    ]
+  ]
+}

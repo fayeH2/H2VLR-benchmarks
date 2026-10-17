@@ -1,0 +1,69 @@
+{
+  "dataset": "btad",
+  "class": "02",
+  "shot": 4,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "02/train/ok/0100.png",
+      "02/train/ok/0193.png",
+      "02/train/ok/0181.png",
+      "02/train/ok/0209.png"
+    ],
+    [
+      "02/train/ok/0199.png",
+      "02/train/ok/0132.png",
+      "02/train/ok/0055.png",
+      "02/train/ok/0318.png"
+    ],
+    [
+      "02/train/ok/0245.png",
+      "02/train/ok/0028.png",
+      "02/train/ok/0029.png",
+      "02/train/ok/0351.png"
+    ],
+    [
+      "02/train/ok/0302.png",
+      "02/train/ok/0277.png",
+      "02/train/ok/0217.png",
+      "02/train/ok/0218.png"
+    ],
+    [
+      "02/train/ok/0029.png",
+      "02/train/ok/0293.png",
+      "02/train/ok/0218.png",
+      "02/train/ok/0267.png"
+    ],
+    [
+      "02/train/ok/0057.png",
+      "02/train/ok/0146.png",
+      "02/train/ok/0123.png",
+      "02/train/ok/0215.png"
+    ],
+    [
+      "02/train/ok/0384.png",
+      "02/train/ok/0306.png",
+      "02/train/ok/0254.png",
+      "02/train/ok/0125.png"
+    ],
+    [
+      "02/train/ok/0241.png",
+      "02/train/ok/0172.png",
+      "02/train/ok/0099.png",
+      "02/train/ok/0094.png"
+    ],
+    [
+      "02/train/ok/0137.png",
+      "02/train/ok/0145.png",
+      "02/train/ok/0237.png",
+      "02/train/ok/0159.png"
+    ],
+    [
+      "02/train/ok/0158.png",
+      "02/train/ok/0219.png",
+      "02/train/ok/0304.png",
+      "02/train/ok/0230.png"
+    ]
+  ]
+}

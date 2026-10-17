@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "leather",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "leather/train/good/150.png"
+    ],
+    [
+      "leather/train/good/117.png"
+    ],
+    [
+      "leather/train/good/147.png"
+    ],
+    [
+      "leather/train/good/087.png"
+    ],
+    [
+      "leather/train/good/001.png"
+    ],
+    [
+      "leather/train/good/187.png"
+    ],
+    [
+      "leather/train/good/056.png"
+    ],
+    [
+      "leather/train/good/030.png"
+    ],
+    [
+      "leather/train/good/172.png"
+    ],
+    [
+      "leather/train/good/025.png"
+    ]
+  ]
+}

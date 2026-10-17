@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "capsule",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "capsule/train/good/072.png"
+    ],
+    [
+      "capsule/train/good/083.png"
+    ],
+    [
+      "capsule/train/good/177.png"
+    ],
+    [
+      "capsule/train/good/065.png"
+    ],
+    [
+      "capsule/train/good/171.png"
+    ],
+    [
+      "capsule/train/good/132.png"
+    ],
+    [
+      "capsule/train/good/020.png"
+    ],
+    [
+      "capsule/train/good/200.png"
+    ],
+    [
+      "capsule/train/good/178.png"
+    ],
+    [
+      "capsule/train/good/148.png"
+    ]
+  ]
+}

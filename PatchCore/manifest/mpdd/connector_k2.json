@@ -1,0 +1,49 @@
+{
+  "dataset": "mpdd",
+  "class": "connector",
+  "shot": 2,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "connector/train/good/090.png",
+      "connector/train/good/039.png"
+    ],
+    [
+      "connector/train/good/035.png",
+      "connector/train/good/089.png"
+    ],
+    [
+      "connector/train/good/029.png",
+      "connector/train/good/104.png"
+    ],
+    [
+      "connector/train/good/030.png",
+      "connector/train/good/021.png"
+    ],
+    [
+      "connector/train/good/103.png",
+      "connector/train/good/056.png"
+    ],
+    [
+      "connector/train/good/054.png",
+      "connector/train/good/090.png"
+    ],
+    [
+      "connector/train/good/013.png",
+      "connector/train/good/029.png"
+    ],
+    [
+      "connector/train/good/077.png",
+      "connector/train/good/088.png"
+    ],
+    [
+      "connector/train/good/063.png",
+      "connector/train/good/004.png"
+    ],
+    [
+      "connector/train/good/086.png",
+      "connector/train/good/094.png"
+    ]
+  ]
+}

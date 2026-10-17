@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "fryum",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "fryum/train/good/362.JPG"
+    ],
+    [
+      "fryum/train/good/421.JPG"
+    ],
+    [
+      "fryum/train/good/330.JPG"
+    ],
+    [
+      "fryum/train/good/070.JPG"
+    ],
+    [
+      "fryum/train/good/261.JPG"
+    ],
+    [
+      "fryum/train/good/273.JPG"
+    ],
+    [
+      "fryum/train/good/459.JPG"
+    ],
+    [
+      "fryum/train/good/018.JPG"
+    ],
+    [
+      "fryum/train/good/336.JPG"
+    ],
+    [
+      "fryum/train/good/103.JPG"
+    ]
+  ]
+}

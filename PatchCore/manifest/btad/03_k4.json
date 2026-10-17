@@ -1,0 +1,69 @@
+{
+  "dataset": "btad",
+  "class": "03",
+  "shot": 4,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "03/train/ok/0109.bmp",
+      "03/train/ok/0842.bmp",
+      "03/train/ok/0891.bmp",
+      "03/train/ok/0260.bmp"
+    ],
+    [
+      "03/train/ok/0605.bmp",
+      "03/train/ok/0053.bmp",
+      "03/train/ok/0249.bmp",
+      "03/train/ok/0730.bmp"
+    ],
+    [
+      "03/train/ok/0631.bmp",
+      "03/train/ok/0634.bmp",
+      "03/train/ok/0959.bmp",
+      "03/train/ok/0607.bmp"
+    ],
+    [
+      "03/train/ok/0029.bmp",
+      "03/train/ok/0845.bmp",
+      "03/train/ok/0310.bmp",
+      "03/train/ok/0761.bmp"
+    ],
+    [
+      "03/train/ok/0157.bmp",
+      "03/train/ok/0126.bmp",
+      "03/train/ok/0767.bmp",
+      "03/train/ok/0312.bmp"
+    ],
+    [
+      "03/train/ok/0775.bmp",
+      "03/train/ok/0927.bmp",
+      "03/train/ok/0719.bmp",
+      "03/train/ok/0227.bmp"
+    ],
+    [
+      "03/train/ok/0305.bmp",
+      "03/train/ok/0103.bmp",
+      "03/train/ok/0213.bmp",
+      "03/train/ok/0068.bmp"
+    ],
+    [
+      "03/train/ok/0185.bmp",
+      "03/train/ok/0648.bmp",
+      "03/train/ok/0722.bmp",
+      "03/train/ok/0362.bmp"
+    ],
+    [
+      "03/train/ok/0605.bmp",
+      "03/train/ok/0048.bmp",
+      "03/train/ok/0331.bmp",
+      "03/train/ok/0390.bmp"
+    ],
+    [
+      "03/train/ok/0738.bmp",
+      "03/train/ok/0688.bmp",
+      "03/train/ok/0634.bmp",
+      "03/train/ok/0954.bmp"
+    ]
+  ]
+}

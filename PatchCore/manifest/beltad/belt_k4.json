@@ -1,0 +1,69 @@
+{
+  "dataset": "beltad",
+  "class": "belt",
+  "shot": 4,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "belt/train/good/390.jpg",
+      "belt/train/good/402.jpg",
+      "belt/train/good/271.jpg",
+      "belt/train/good/427.jpg"
+    ],
+    [
+      "belt/train/good/211.jpg",
+      "belt/train/good/245.jpg",
+      "belt/train/good/124.jpg",
+      "belt/train/good/498.jpg"
+    ],
+    [
+      "belt/train/good/420.jpg",
+      "belt/train/good/162.jpg",
+      "belt/train/good/375.jpg",
+      "belt/train/good/048.jpg"
+    ],
+    [
+      "belt/train/good/383.jpg",
+      "belt/train/good/106.jpg",
+      "belt/train/good/422.jpg",
+      "belt/train/good/466.jpg"
+    ],
+    [
+      "belt/train/good/255.jpg",
+      "belt/train/good/331.jpg",
+      "belt/train/good/491.jpg",
+      "belt/train/good/290.jpg"
+    ],
+    [
+      "belt/train/good/096.jpg",
+      "belt/train/good/127.jpg",
+      "belt/train/good/327.jpg",
+      "belt/train/good/007.jpg"
+    ],
+    [
+      "belt/train/good/485.jpg",
+      "belt/train/good/198.jpg",
+      "belt/train/good/191.jpg",
+      "belt/train/good/347.jpg"
+    ],
+    [
+      "belt/train/good/009.jpg",
+      "belt/train/good/441.jpg",
+      "belt/train/good/120.jpg",
+      "belt/train/good/177.jpg"
+    ],
+    [
+      "belt/train/good/014.jpg",
+      "belt/train/good/125.jpg",
+      "belt/train/good/034.jpg",
+      "belt/train/good/425.jpg"
+    ],
+    [
+      "belt/train/good/168.jpg",
+      "belt/train/good/130.jpg",
+      "belt/train/good/389.jpg",
+      "belt/train/good/070.jpg"
+    ]
+  ]
+}

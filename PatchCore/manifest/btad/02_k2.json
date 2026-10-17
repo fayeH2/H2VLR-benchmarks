@@ -1,0 +1,49 @@
+{
+  "dataset": "btad",
+  "class": "02",
+  "shot": 2,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "02/train/ok/0218.png",
+      "02/train/ok/0098.png"
+    ],
+    [
+      "02/train/ok/0154.png",
+      "02/train/ok/0208.png"
+    ],
+    [
+      "02/train/ok/0328.png",
+      "02/train/ok/0350.png"
+    ],
+    [
+      "02/train/ok/0143.png",
+      "02/train/ok/0065.png"
+    ],
+    [
+      "02/train/ok/0381.png",
+      "02/train/ok/0158.png"
+    ],
+    [
+      "02/train/ok/0379.png",
+      "02/train/ok/0158.png"
+    ],
+    [
+      "02/train/ok/0147.png",
+      "02/train/ok/0159.png"
+    ],
+    [
+      "02/train/ok/0365.png",
+      "02/train/ok/0067.png"
+    ],
+    [
+      "02/train/ok/0333.png",
+      "02/train/ok/0025.png"
+    ],
+    [
+      "02/train/ok/0030.png",
+      "02/train/ok/0103.png"
+    ]
+  ]
+}

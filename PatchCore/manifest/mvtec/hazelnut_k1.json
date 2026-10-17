@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "hazelnut",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "hazelnut/train/good/019.png"
+    ],
+    [
+      "hazelnut/train/good/054.png"
+    ],
+    [
+      "hazelnut/train/good/328.png"
+    ],
+    [
+      "hazelnut/train/good/010.png"
+    ],
+    [
+      "hazelnut/train/good/271.png"
+    ],
+    [
+      "hazelnut/train/good/171.png"
+    ],
+    [
+      "hazelnut/train/good/342.png"
+    ],
+    [
+      "hazelnut/train/good/244.png"
+    ],
+    [
+      "hazelnut/train/good/198.png"
+    ],
+    [
+      "hazelnut/train/good/368.png"
+    ]
+  ]
+}

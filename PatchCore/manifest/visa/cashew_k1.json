@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "cashew",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "cashew/train/good/043.JPG"
+    ],
+    [
+      "cashew/train/good/470.JPG"
+    ],
+    [
+      "cashew/train/good/404.JPG"
+    ],
+    [
+      "cashew/train/good/438.JPG"
+    ],
+    [
+      "cashew/train/good/316.JPG"
+    ],
+    [
+      "cashew/train/good/002.JPG"
+    ],
+    [
+      "cashew/train/good/471.JPG"
+    ],
+    [
+      "cashew/train/good/158.JPG"
+    ],
+    [
+      "cashew/train/good/280.JPG"
+    ],
+    [
+      "cashew/train/good/459.JPG"
+    ]
+  ]
+}

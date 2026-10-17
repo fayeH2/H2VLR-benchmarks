@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "zipper",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "zipper/train/good/002.png"
+    ],
+    [
+      "zipper/train/good/201.png"
+    ],
+    [
+      "zipper/train/good/024.png"
+    ],
+    [
+      "zipper/train/good/157.png"
+    ],
+    [
+      "zipper/train/good/064.png"
+    ],
+    [
+      "zipper/train/good/217.png"
+    ],
+    [
+      "zipper/train/good/094.png"
+    ],
+    [
+      "zipper/train/good/216.png"
+    ],
+    [
+      "zipper/train/good/029.png"
+    ],
+    [
+      "zipper/train/good/022.png"
+    ]
+  ]
+}

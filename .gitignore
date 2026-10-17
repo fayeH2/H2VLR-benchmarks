@@ -1,0 +1,50 @@
+# Data & results (not versioned)
+visualizations/
+outputs/
+outputs_industrial/
+outputs_medical/
+outputs_trained/
+official_results/
+saved_results/
+save_checkpoints/
+support_set/
+result/
+official_reproduction/
+smoke_results*/
+logs/
+_tmp_runlogs/
+logs/*.log
+captures/
+heat_masks/
+seed*/
+PromptAD_对比结果*/
+29号结果/
+DictAS-main/demo_example/
+MediCLIP/data/
+
+# Model weights / checkpoints
+weights/
+ckpt/
+pretrained_ckpt*/
+pretrained_weight/
+DictAS_weight/
+*.tar
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.onnx
+*.npy
+
+# Caches / IDE
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+.ipynb_checkpoints/
+.cursor/
+
+# Result summaries / logs
+*_results_summary.csv
+*_results_summary.json
+*.log

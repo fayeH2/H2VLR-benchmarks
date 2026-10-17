@@ -1,0 +1,39 @@
+{
+  "dataset": "mpdd",
+  "class": "connector",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "connector/train/good/016.png"
+    ],
+    [
+      "connector/train/good/022.png"
+    ],
+    [
+      "connector/train/good/050.png"
+    ],
+    [
+      "connector/train/good/081.png"
+    ],
+    [
+      "connector/train/good/112.png"
+    ],
+    [
+      "connector/train/good/100.png"
+    ],
+    [
+      "connector/train/good/125.png"
+    ],
+    [
+      "connector/train/good/064.png"
+    ],
+    [
+      "connector/train/good/059.png"
+    ],
+    [
+      "connector/train/good/085.png"
+    ]
+  ]
+}

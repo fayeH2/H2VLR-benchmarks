@@ -1,0 +1,39 @@
+{
+  "dataset": "beltad",
+  "class": "belt",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "belt/train/good/025.jpg"
+    ],
+    [
+      "belt/train/good/402.jpg"
+    ],
+    [
+      "belt/train/good/317.jpg"
+    ],
+    [
+      "belt/train/good/019.jpg"
+    ],
+    [
+      "belt/train/good/133.jpg"
+    ],
+    [
+      "belt/train/good/202.jpg"
+    ],
+    [
+      "belt/train/good/488.jpg"
+    ],
+    [
+      "belt/train/good/102.jpg"
+    ],
+    [
+      "belt/train/good/310.jpg"
+    ],
+    [
+      "belt/train/good/072.jpg"
+    ]
+  ]
+}

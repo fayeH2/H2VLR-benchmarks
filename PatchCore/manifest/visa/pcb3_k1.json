@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "pcb3",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "pcb3/train/good/0269.JPG"
+    ],
+    [
+      "pcb3/train/good/0792.JPG"
+    ],
+    [
+      "pcb3/train/good/0496.JPG"
+    ],
+    [
+      "pcb3/train/good/0308.JPG"
+    ],
+    [
+      "pcb3/train/good/0441.JPG"
+    ],
+    [
+      "pcb3/train/good/0750.JPG"
+    ],
+    [
+      "pcb3/train/good/0726.JPG"
+    ],
+    [
+      "pcb3/train/good/0860.JPG"
+    ],
+    [
+      "pcb3/train/good/0613.JPG"
+    ],
+    [
+      "pcb3/train/good/0651.JPG"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "dataset": "mpdd",
+  "class": "connector",
+  "shot": 4,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "connector/train/good/004.png",
+      "connector/train/good/036.png",
+      "connector/train/good/050.png",
+      "connector/train/good/010.png"
+    ],
+    [
+      "connector/train/good/004.png",
+      "connector/train/good/054.png",
+      "connector/train/good/083.png",
+      "connector/train/good/084.png"
+    ],
+    [
+      "connector/train/good/038.png",
+      "connector/train/good/103.png",
+      "connector/train/good/010.png",
+      "connector/train/good/100.png"
+    ],
+    [
+      "connector/train/good/103.png",
+      "connector/train/good/085.png",
+      "connector/train/good/093.png",
+      "connector/train/good/112.png"
+    ],
+    [
+      "connector/train/good/058.png",
+      "connector/train/good/125.png",
+      "connector/train/good/005.png",
+      "connector/train/good/087.png"
+    ],
+    [
+      "connector/train/good/062.png",
+      "connector/train/good/061.png",
+      "connector/train/good/032.png",
+      "connector/train/good/056.png"
+    ],
+    [
+      "connector/train/good/058.png",
+      "connector/train/good/065.png",
+      "connector/train/good/092.png",
+      "connector/train/good/067.png"
+    ],
+    [
+      "connector/train/good/032.png",
+      "connector/train/good/122.png",
+      "connector/train/good/056.png",
+      "connector/train/good/076.png"
+    ],
+    [
+      "connector/train/good/017.png",
+      "connector/train/good/036.png",
+      "connector/train/good/024.png",
+      "connector/train/good/057.png"
+    ],
+    [
+      "connector/train/good/049.png",
+      "connector/train/good/079.png",
+      "connector/train/good/002.png",
+      "connector/train/good/076.png"
+    ]
+  ]
+}

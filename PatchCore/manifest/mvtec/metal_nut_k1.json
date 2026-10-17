@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "metal_nut",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "metal_nut/train/good/185.png"
+    ],
+    [
+      "metal_nut/train/good/114.png"
+    ],
+    [
+      "metal_nut/train/good/184.png"
+    ],
+    [
+      "metal_nut/train/good/051.png"
+    ],
+    [
+      "metal_nut/train/good/199.png"
+    ],
+    [
+      "metal_nut/train/good/102.png"
+    ],
+    [
+      "metal_nut/train/good/076.png"
+    ],
+    [
+      "metal_nut/train/good/199.png"
+    ],
+    [
+      "metal_nut/train/good/141.png"
+    ],
+    [
+      "metal_nut/train/good/099.png"
+    ]
+  ]
+}

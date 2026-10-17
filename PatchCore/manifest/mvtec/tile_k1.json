@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "tile",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "tile/train/good/022.png"
+    ],
+    [
+      "tile/train/good/140.png"
+    ],
+    [
+      "tile/train/good/128.png"
+    ],
+    [
+      "tile/train/good/192.png"
+    ],
+    [
+      "tile/train/good/104.png"
+    ],
+    [
+      "tile/train/good/146.png"
+    ],
+    [
+      "tile/train/good/113.png"
+    ],
+    [
+      "tile/train/good/012.png"
+    ],
+    [
+      "tile/train/good/115.png"
+    ],
+    [
+      "tile/train/good/193.png"
+    ]
+  ]
+}

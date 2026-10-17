@@ -1,0 +1,69 @@
+{
+  "dataset": "mpdd",
+  "class": "tubes",
+  "shot": 4,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "tubes/train/good/066.png",
+      "tubes/train/good/040.png",
+      "tubes/train/good/048.png",
+      "tubes/train/good/083.png"
+    ],
+    [
+      "tubes/train/good/010.png",
+      "tubes/train/good/013.png",
+      "tubes/train/good/032.png",
+      "tubes/train/good/017.png"
+    ],
+    [
+      "tubes/train/good/105.png",
+      "tubes/train/good/107.png",
+      "tubes/train/good/018.png",
+      "tubes/train/good/038.png"
+    ],
+    [
+      "tubes/train/good/008.png",
+      "tubes/train/good/035.png",
+      "tubes/train/good/052.png",
+      "tubes/train/good/013.png"
+    ],
+    [
+      "tubes/train/good/025.png",
+      "tubes/train/good/061.png",
+      "tubes/train/good/074.png",
+      "tubes/train/good/032.png"
+    ],
+    [
+      "tubes/train/good/105.png",
+      "tubes/train/good/099.png",
+      "tubes/train/good/044.png",
+      "tubes/train/good/063.png"
+    ],
+    [
+      "tubes/train/good/095.png",
+      "tubes/train/good/117.png",
+      "tubes/train/good/110.png",
+      "tubes/train/good/036.png"
+    ],
+    [
+      "tubes/train/good/028.png",
+      "tubes/train/good/085.png",
+      "tubes/train/good/111.png",
+      "tubes/train/good/074.png"
+    ],
+    [
+      "tubes/train/good/111.png",
+      "tubes/train/good/113.png",
+      "tubes/train/good/052.png",
+      "tubes/train/good/103.png"
+    ],
+    [
+      "tubes/train/good/099.png",
+      "tubes/train/good/025.png",
+      "tubes/train/good/038.png",
+      "tubes/train/good/096.png"
+    ]
+  ]
+}

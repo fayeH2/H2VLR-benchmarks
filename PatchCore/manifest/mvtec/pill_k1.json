@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "pill",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "pill/train/good/198.png"
+    ],
+    [
+      "pill/train/good/164.png"
+    ],
+    [
+      "pill/train/good/042.png"
+    ],
+    [
+      "pill/train/good/062.png"
+    ],
+    [
+      "pill/train/good/256.png"
+    ],
+    [
+      "pill/train/good/137.png"
+    ],
+    [
+      "pill/train/good/211.png"
+    ],
+    [
+      "pill/train/good/161.png"
+    ],
+    [
+      "pill/train/good/065.png"
+    ],
+    [
+      "pill/train/good/188.png"
+    ]
+  ]
+}

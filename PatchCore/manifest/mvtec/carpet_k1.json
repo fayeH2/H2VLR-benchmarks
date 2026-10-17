@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "carpet",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "carpet/train/good/184.png"
+    ],
+    [
+      "carpet/train/good/189.png"
+    ],
+    [
+      "carpet/train/good/119.png"
+    ],
+    [
+      "carpet/train/good/092.png"
+    ],
+    [
+      "carpet/train/good/223.png"
+    ],
+    [
+      "carpet/train/good/070.png"
+    ],
+    [
+      "carpet/train/good/194.png"
+    ],
+    [
+      "carpet/train/good/143.png"
+    ],
+    [
+      "carpet/train/good/037.png"
+    ],
+    [
+      "carpet/train/good/115.png"
+    ]
+  ]
+}

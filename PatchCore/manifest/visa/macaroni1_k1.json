@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "macaroni1",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "macaroni1/train/good/0141.JPG"
+    ],
+    [
+      "macaroni1/train/good/0055.JPG"
+    ],
+    [
+      "macaroni1/train/good/0965.JPG"
+    ],
+    [
+      "macaroni1/train/good/0419.JPG"
+    ],
+    [
+      "macaroni1/train/good/0389.JPG"
+    ],
+    [
+      "macaroni1/train/good/0720.JPG"
+    ],
+    [
+      "macaroni1/train/good/0542.JPG"
+    ],
+    [
+      "macaroni1/train/good/0176.JPG"
+    ],
+    [
+      "macaroni1/train/good/0126.JPG"
+    ],
+    [
+      "macaroni1/train/good/0628.JPG"
+    ]
+  ]
+}

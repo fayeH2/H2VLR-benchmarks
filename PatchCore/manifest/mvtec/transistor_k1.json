@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "transistor",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "transistor/train/good/022.png"
+    ],
+    [
+      "transistor/train/good/055.png"
+    ],
+    [
+      "transistor/train/good/087.png"
+    ],
+    [
+      "transistor/train/good/167.png"
+    ],
+    [
+      "transistor/train/good/005.png"
+    ],
+    [
+      "transistor/train/good/137.png"
+    ],
+    [
+      "transistor/train/good/139.png"
+    ],
+    [
+      "transistor/train/good/113.png"
+    ],
+    [
+      "transistor/train/good/177.png"
+    ],
+    [
+      "transistor/train/good/181.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "candle",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "candle/train/good/0719.JPG"
+    ],
+    [
+      "candle/train/good/0859.JPG"
+    ],
+    [
+      "candle/train/good/0194.JPG"
+    ],
+    [
+      "candle/train/good/0587.JPG"
+    ],
+    [
+      "candle/train/good/0603.JPG"
+    ],
+    [
+      "candle/train/good/0204.JPG"
+    ],
+    [
+      "candle/train/good/0947.JPG"
+    ],
+    [
+      "candle/train/good/0234.JPG"
+    ],
+    [
+      "candle/train/good/0477.JPG"
+    ],
+    [
+      "candle/train/good/0533.JPG"
+    ]
+  ]
+}

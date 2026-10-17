@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+outputs/
+logs_mvtec/
+support_set/
+save_checkpoints/
+*.tar
+.DS_Store
+._*
+*.log

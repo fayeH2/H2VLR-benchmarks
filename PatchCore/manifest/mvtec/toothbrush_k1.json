@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "toothbrush",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "toothbrush/train/good/005.png"
+    ],
+    [
+      "toothbrush/train/good/043.png"
+    ],
+    [
+      "toothbrush/train/good/037.png"
+    ],
+    [
+      "toothbrush/train/good/013.png"
+    ],
+    [
+      "toothbrush/train/good/042.png"
+    ],
+    [
+      "toothbrush/train/good/036.png"
+    ],
+    [
+      "toothbrush/train/good/040.png"
+    ],
+    [
+      "toothbrush/train/good/038.png"
+    ],
+    [
+      "toothbrush/train/good/009.png"
+    ],
+    [
+      "toothbrush/train/good/051.png"
+    ]
+  ]
+}

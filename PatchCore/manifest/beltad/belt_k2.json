@@ -1,0 +1,49 @@
+{
+  "dataset": "beltad",
+  "class": "belt",
+  "shot": 2,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "belt/train/good/145.jpg",
+      "belt/train/good/153.jpg"
+    ],
+    [
+      "belt/train/good/187.jpg",
+      "belt/train/good/375.jpg"
+    ],
+    [
+      "belt/train/good/168.jpg",
+      "belt/train/good/461.jpg"
+    ],
+    [
+      "belt/train/good/450.jpg",
+      "belt/train/good/402.jpg"
+    ],
+    [
+      "belt/train/good/482.jpg",
+      "belt/train/good/467.jpg"
+    ],
+    [
+      "belt/train/good/157.jpg",
+      "belt/train/good/108.jpg"
+    ],
+    [
+      "belt/train/good/265.jpg",
+      "belt/train/good/148.jpg"
+    ],
+    [
+      "belt/train/good/340.jpg",
+      "belt/train/good/147.jpg"
+    ],
+    [
+      "belt/train/good/352.jpg",
+      "belt/train/good/477.jpg"
+    ],
+    [
+      "belt/train/good/383.jpg",
+      "belt/train/good/084.jpg"
+    ]
+  ]
+}

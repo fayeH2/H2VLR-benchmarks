@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "screw",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "screw/train/good/271.png"
+    ],
+    [
+      "screw/train/good/218.png"
+    ],
+    [
+      "screw/train/good/108.png"
+    ],
+    [
+      "screw/train/good/053.png"
+    ],
+    [
+      "screw/train/good/283.png"
+    ],
+    [
+      "screw/train/good/311.png"
+    ],
+    [
+      "screw/train/good/269.png"
+    ],
+    [
+      "screw/train/good/315.png"
+    ],
+    [
+      "screw/train/good/223.png"
+    ],
+    [
+      "screw/train/good/092.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dataset": "mpdd",
+  "class": "tubes",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "tubes/train/good/112.png"
+    ],
+    [
+      "tubes/train/good/081.png"
+    ],
+    [
+      "tubes/train/good/003.png"
+    ],
+    [
+      "tubes/train/good/061.png"
+    ],
+    [
+      "tubes/train/good/012.png"
+    ],
+    [
+      "tubes/train/good/083.png"
+    ],
+    [
+      "tubes/train/good/062.png"
+    ],
+    [
+      "tubes/train/good/121.png"
+    ],
+    [
+      "tubes/train/good/065.png"
+    ],
+    [
+      "tubes/train/good/027.png"
+    ]
+  ]
+}

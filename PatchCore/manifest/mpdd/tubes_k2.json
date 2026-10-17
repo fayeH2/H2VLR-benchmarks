@@ -1,0 +1,49 @@
+{
+  "dataset": "mpdd",
+  "class": "tubes",
+  "shot": 2,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "tubes/train/good/046.png",
+      "tubes/train/good/104.png"
+    ],
+    [
+      "tubes/train/good/008.png",
+      "tubes/train/good/020.png"
+    ],
+    [
+      "tubes/train/good/089.png",
+      "tubes/train/good/099.png"
+    ],
+    [
+      "tubes/train/good/016.png",
+      "tubes/train/good/115.png"
+    ],
+    [
+      "tubes/train/good/082.png",
+      "tubes/train/good/036.png"
+    ],
+    [
+      "tubes/train/good/007.png",
+      "tubes/train/good/020.png"
+    ],
+    [
+      "tubes/train/good/068.png",
+      "tubes/train/good/019.png"
+    ],
+    [
+      "tubes/train/good/055.png",
+      "tubes/train/good/083.png"
+    ],
+    [
+      "tubes/train/good/050.png",
+      "tubes/train/good/055.png"
+    ],
+    [
+      "tubes/train/good/089.png",
+      "tubes/train/good/114.png"
+    ]
+  ]
+}

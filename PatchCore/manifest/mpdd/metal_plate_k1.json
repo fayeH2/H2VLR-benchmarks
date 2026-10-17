@@ -1,0 +1,39 @@
+{
+  "dataset": "mpdd",
+  "class": "metal_plate",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "metal_plate/train/good/032.png"
+    ],
+    [
+      "metal_plate/train/good/025.png"
+    ],
+    [
+      "metal_plate/train/good/030.png"
+    ],
+    [
+      "metal_plate/train/good/033.png"
+    ],
+    [
+      "metal_plate/train/good/009.png"
+    ],
+    [
+      "metal_plate/train/good/039.png"
+    ],
+    [
+      "metal_plate/train/good/007.png"
+    ],
+    [
+      "metal_plate/train/good/052.png"
+    ],
+    [
+      "metal_plate/train/good/024.png"
+    ],
+    [
+      "metal_plate/train/good/038.png"
+    ]
+  ]
+}

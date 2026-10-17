@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "wood",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "wood/train/good/058.png"
+    ],
+    [
+      "wood/train/good/228.png"
+    ],
+    [
+      "wood/train/good/233.png"
+    ],
+    [
+      "wood/train/good/214.png"
+    ],
+    [
+      "wood/train/good/098.png"
+    ],
+    [
+      "wood/train/good/233.png"
+    ],
+    [
+      "wood/train/good/172.png"
+    ],
+    [
+      "wood/train/good/201.png"
+    ],
+    [
+      "wood/train/good/022.png"
+    ],
+    [
+      "wood/train/good/236.png"
+    ]
+  ]
+}

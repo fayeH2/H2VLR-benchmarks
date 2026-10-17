@@ -1,0 +1,39 @@
+{
+  "dataset": "visa",
+  "class": "capsules",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "capsules/train/good/498.JPG"
+    ],
+    [
+      "capsules/train/good/582.JPG"
+    ],
+    [
+      "capsules/train/good/516.JPG"
+    ],
+    [
+      "capsules/train/good/562.JPG"
+    ],
+    [
+      "capsules/train/good/418.JPG"
+    ],
+    [
+      "capsules/train/good/019.JPG"
+    ],
+    [
+      "capsules/train/good/124.JPG"
+    ],
+    [
+      "capsules/train/good/515.JPG"
+    ],
+    [
+      "capsules/train/good/030.JPG"
+    ],
+    [
+      "capsules/train/good/434.JPG"
+    ]
+  ]
+}

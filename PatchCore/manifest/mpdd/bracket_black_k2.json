@@ -1,0 +1,49 @@
+{
+  "dataset": "mpdd",
+  "class": "bracket_black",
+  "shot": 2,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "bracket_black/train/good/100.png",
+      "bracket_black/train/good/028.png"
+    ],
+    [
+      "bracket_black/train/good/156.png",
+      "bracket_black/train/good/169.png"
+    ],
+    [
+      "bracket_black/train/good/063.png",
+      "bracket_black/train/good/009.png"
+    ],
+    [
+      "bracket_black/train/good/262.png",
+      "bracket_black/train/good/080.png"
+    ],
+    [
+      "bracket_black/train/good/104.png",
+      "bracket_black/train/good/038.png"
+    ],
+    [
+      "bracket_black/train/good/108.png",
+      "bracket_black/train/good/277.png"
+    ],
+    [
+      "bracket_black/train/good/133.png",
+      "bracket_black/train/good/059.png"
+    ],
+    [
+      "bracket_black/train/good/042.png",
+      "bracket_black/train/good/188.png"
+    ],
+    [
+      "bracket_black/train/good/205.png",
+      "bracket_black/train/good/232.png"
+    ],
+    [
+      "bracket_black/train/good/194.png",
+      "bracket_black/train/good/256.png"
+    ]
+  ]
+}

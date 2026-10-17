@@ -1,0 +1,39 @@
+{
+  "dataset": "mvtec",
+  "class": "cable",
+  "shot": 1,
+  "rounds": 10,
+  "seed": 668,
+  "samples": [
+    [
+      "cable/train/good/115.png"
+    ],
+    [
+      "cable/train/good/042.png"
+    ],
+    [
+      "cable/train/good/055.png"
+    ],
+    [
+      "cable/train/good/087.png"
+    ],
+    [
+      "cable/train/good/081.png"
+    ],
+    [
+      "cable/train/good/101.png"
+    ],
+    [
+      "cable/train/good/128.png"
+    ],
+    [
+      "cable/train/good/094.png"
+    ],
+    [
+      "cable/train/good/149.png"
+    ],
+    [
+      "cable/train/good/085.png"
+    ]
+  ]
+}
