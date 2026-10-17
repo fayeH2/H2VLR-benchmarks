@@ -1,17 +1,3 @@
-"""MediCLIP train + evaluate driver for the H2VLR_compare medical benchmark.
-
-Follows the official `train.py` / `test.py` recipe (ViT-L/14, 200 epochs, CoOp
-prompts, adapters, multi-task medical anomaly synthesis) but:
-  * trains on an explicit few-shot support set (fixed indices shared with the
-    rest of H2VLR_compare via datasets/seeds_*),
-  * reports the benchmark's four metrics -- I-AUROC, I-AUPR, P-AUROC, P-AUPRO --
-    using the shared `_shared/eval_common.py` measurement code,
-  * writes a per-(dataset, shot, class) result.json.
-
-Pixel metrics use the author's per-image `normalization` (test.py) before the
-shared metric computation; image scores are the max of the raw anomaly map.
-"""
-
 import argparse
 import json
 import os
@@ -30,7 +16,7 @@ warnings.filterwarnings("ignore")
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-sys.path.insert(0, "/path/to/H2VLR_compare")
+sys.path.insert(0, "/path/to/H2VLR")
 
 import open_clip  # noqa: E402  (local bundled version)
 from models.Adapter import Adapter  # noqa: E402

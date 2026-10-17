@@ -6,8 +6,7 @@ if __name__ == '__main__':
 
     pool = Pool(processes=1)
 
-    # datasets = ['mvtec', 'visa']
-    datasets = ["belt"]
+    datasets = ['mvtec', 'visa']
     shots = [1, 2, 4]
 
     for shot in shots:

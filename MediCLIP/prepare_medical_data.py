@@ -1,19 +1,3 @@
-"""Convert the H2VLR_compare medical datasets into the MediCLIP data layout.
-
-Source (UniVAD / H2VLR_V2 shared pool):
-    /path/to/datasets/medical/{BrainMRI,BUSI,LiverCT}/<cls>/
-
-Target (MediCLIP expects `<root>/images/<filename>` + `<root>/samples/{train,test}.json`):
-    MediCLIP/data/<name>/images/...      (symlinks to the source images)
-    MediCLIP/data/<name>/samples/{train,test}.json
-
-`test.json` lines carry {filename, clsname, label, mask}; `train.json` carries
-{filename, clsname, label, mask}. Filenames are relative to `images/`.
-The training list is written in sorted filename order so that the fixed seed
-indices used across H2VLR_compare (datasets/seeds_*) map to the same support
-images.
-"""
-
 import json
 import os
 import shutil

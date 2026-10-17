@@ -5,13 +5,7 @@ from loguru import logger
 from .dataset import CLIPDataset
 from .mvtec import load_mvtec, mvtec_classes
 from .visa import load_visa, visa_classes
-
-from .belt import load_belt,belt_classes
-from .mpdd import load_mpdd, mpdd_classes
-from .btad import load_btad, btad_classes
-from .busi import load_busi, busi_classes
-from .liver import load_liver, liver_classes
-from .brain import load_brain, brain_classes
+from .industrial import load_btad, btad_classes, load_mpdd, mpdd_classes, load_beltad, beltad_classes
 
 
 mean_train = [0.48145466, 0.4578275, 0.40821073]
@@ -20,23 +14,17 @@ std_train = [0.26862954, 0.26130258, 0.27577711]
 load_function_dict = {
     'mvtec': load_mvtec,
     'visa': load_visa,
-    'belt':load_belt,
-    'mpdd': load_mpdd,
     'btad': load_btad,
-    'busi': load_busi,
-    'liver': load_liver,
-    'brain': load_brain,
+    'mpdd': load_mpdd,
+    'beltad': load_beltad,
 }
 
 dataset_classes = {
     'mvtec': mvtec_classes,
     'visa': visa_classes,
-    'belt':belt_classes,
-    'mpdd': mpdd_classes,
     'btad': btad_classes,
-    'busi': busi_classes,
-    'liver': liver_classes,
-    'brain': brain_classes,
+    'mpdd': mpdd_classes,
+    'beltad': beltad_classes,
 }
 
 def denormalization(x):

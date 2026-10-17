@@ -9,10 +9,7 @@ class_mapping = {
     "pcb4": "printed circuit board",
     "pipe_fryum": "pipe fryum",
     "chewinggum": "chewing gum",
-    "metal_nut": "metal nut",
-    "01": "machined metal ring",
-    "02": "wood surface",
-    "03": "rubber sealing ring cross-section",
+    "metal_nut": "metal nut"
 }
 
 
@@ -57,27 +54,4 @@ class_state_abnormal = {
     'pcb2': ['{} with bent', '{} with scratch', '{} with missing', '{} with melt'],
     'pcb3': ['{} with bent', '{} with scratch', '{} with missing', '{} with melt'],
     'pcb4': ['{} with scratch', '{} with extra', '{} with missing', '{} with wrong place', '{} with damage', '{} with burnt', '{} with dirt'],
-    'pipe_fryum': ['{} with breakage', '{} with small scratches', '{} with burnt', '{} with stuck together', '{} with colour spot', '{} with cracks'],
-    # "MPDD"
-    'bracket_black': ['{} with bent arm', '{} with twisted arm', '{} with dented metal', '{} with missing screw', '{} with incomplete screws', '{} with damaged edge'],
-    'bracket_brown': ['{} with bent arm', '{} with twisted arm', '{} with dented metal', '{} with missing screw', '{} with incomplete screws', '{} with damaged edge'],
-    'bracket_white': ['{} with scratch', '{} with dent', '{} with surface crack', '{} with coating defect', '{} with stain', '{} with dark spot', '{} with foreign particle'],
-    'connector': ['{} with missing knob', '{} with missing metal shell', '{} with incomplete part', '{} with unmatched components', '{} with broken connector'],
-    'metal_plate': ['{} with rust', '{} with discoloration', '{} with scratch', '{} with scraped surface', '{} with abrasion', '{} with damaged coating'],
-    'tubes': ['{} with dent', '{} with flattened shape', '{} with bent tube', '{} with damaged edge', '{} with stain', '{} with discoloration'],
-    # "BTAD"    
-    '01': ['{} with distorted circular pattern', '{} with missing groove texture', '{} with blurred surface', '{} with scratch', '{} with dent', '{} with chipped edge'],
-    '02': ['{} with crack', '{} with split', '{} with chipped surface', '{} with missing material', '{} with abnormal texture', '{} with discoloration'],
-    '03': ['{} with deformed shape', '{} with uneven thickness', '{} with irregular cavity', '{} with internal void', '{} with bubble defect', '{} with edge crack'],
-    # "BeltAD"
-    'belt': ['{} with crack', '{} with worn surface', '{} with perforation', '{} with missing section', '{} with hole', '{} with scratch', '{} with wrinkle', '{} with discoloration', '{} with contamination', '{} with deformation'],
-
-    # 医学数据集
-    # "BUSI"
-    'breast': ['{} with hypoechoic mass', '{} with irregular boundary', '{} with heterogeneous echo', '{} with posterior shadowing', '{} with acoustic enhancement'],
-    # "LiverAD"
-    'liver': ['{} with abnormal attenuation', '{} with focal lesion', '{} with irregular margin', '{} with heterogeneous texture', '{} with abnormal contour', '{} with shape deformation'],
-    # "BrainAD"
-    'brain': ['{} with abnormal signal intensity', '{} with focal lesion', '{} with irregular boundary', '{} with heterogeneous texture', '{} with structural asymmetry', '{} with shape distortion']
-
-    }
+    'pipe_fryum': ['{} with breakage', '{} with small scratches', '{} with burnt', '{} with stuck together', '{} with colour spot', '{} with cracks']}

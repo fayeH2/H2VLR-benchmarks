@@ -202,7 +202,7 @@ def str2bool(v):
 
 def get_args():
     parser = argparse.ArgumentParser(description='Anomaly detection')
-    parser.add_argument('--dataset', type=str, default='mvtec', choices=['mvtec', 'visa',"mpdd","btad","belt","busi","liver","brain"])
+    parser.add_argument('--dataset', type=str, default='mvtec', choices=['mvtec', 'visa'])
     parser.add_argument('--class_name', type=str, default='carpet')
 
     parser.add_argument('--img-resize', type=int, default=240)
@@ -210,12 +210,12 @@ def get_args():
     parser.add_argument('--resolution', type=int, default=400)
 
     parser.add_argument('--batch-size', type=int, default=400)
-    parser.add_argument('--vis', type=str2bool, choices=[True, False], default=True)
-    parser.add_argument("--root-dir", type=str, default="./PromptAD_对比结果_CLS")
+    parser.add_argument('--vis', type=str2bool, choices=[True, False], default=False)
+    parser.add_argument("--root-dir", type=str, default="./result")
     parser.add_argument("--load-memory", type=str2bool, default=True)
     parser.add_argument("--cal-pro", type=str2bool, default=False)
     parser.add_argument("--seed", type=int, default=111)
-    parser.add_argument("--gpu-id", type=int, default=1)
+    parser.add_argument("--gpu-id", type=int, default=0)
 
     # pure test
     parser.add_argument("--pure-test", type=str2bool, default=False)

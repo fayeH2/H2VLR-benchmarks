@@ -1,16 +1,4 @@
 #!/usr/bin/env python3
-"""PromptAD few-shot training + evaluation on BTAD / MPDD / BeltAD.
-
-Single-run adaptation of the official train_seg.py pipeline (prompt-learner
-SGD training, pixel-level v2t + triplet + match losses, 100 epochs) that, at
-every epoch, computes the four shared metrics (I-AUROC, I-AUPR, P-AUROC,
-P-AUPRO), keeps the epoch with the best P-AUROC, writes per-class result.json
-and saves per-image visualisations (original image, GT mask, prediction map).
-
-Because classification and segmentation share one prompt-learner, the image
-score is the per-image max of the pixel anomaly map (the training signal is
-the same SEG objective as the official reproduction).
-"""
 
 import argparse
 import json

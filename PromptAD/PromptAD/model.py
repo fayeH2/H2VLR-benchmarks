@@ -34,7 +34,7 @@ class PromptLearner(nn.Module):
         else:
             dtype = torch.float32
 
-        state_anomaly1 = state_anomaly + class_state_abnormal[classname]
+        state_anomaly1 = state_anomaly + class_state_abnormal.get(classname, [])
 
         if classname in class_mapping:
             classname = class_mapping[classname]

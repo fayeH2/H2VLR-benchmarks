@@ -1,11 +1,3 @@
-"""Orchestrate the MediCLIP medical benchmark sweep.
-
-Runs MediCLIP for every (dataset, shot) pair using the canonical few-shot
-support indices shared across H2VLR_compare, sequentially on one GPU, then
-aggregates the per-run `result.json` files into a summary CSV/JSON and prints a
-comparison against the numbers reported in the MediCLIP paper.
-"""
-
 import argparse
 import csv
 import json
@@ -28,7 +20,7 @@ CONFIGS = {
     "busi": SCRIPT_DIR / "config" / "brainmri.yaml",
 }
 CLSNAMES = {"brainmri": "brain", "liverct": "liver", "busi": "breast"}
-DATASET_ORDER = ["busi", "liverct", "brainmri"]  # cheapest first
+DATASET_ORDER = ["busi", "liverct", "brainmri"] 
 
 # Paper (arXiv 2405.11315) reference numbers for the available datasets.
 PAPER = {
