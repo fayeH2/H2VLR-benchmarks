@@ -37,8 +37,8 @@ This benchmark collects the **8 representative FSAD baselines** adopted in H2VLR
 
 | Domain | Datasets | Setting |
 | :--- | :--- | :--- |
-| Industrial | MVTec-AD, VisA, BTAD, MPDD, … | few-shot (1 / 2 / 4 / 8-shot), image- & pixel-level |
-| Medical | BrainMRI, BUSI, LiverCT | few-shot, image- & pixel-level |
+| Industrial | MVTec-AD, VisA, BTAD, MPDD, … | few-shot (1 / 2 / 4-shot), image- & pixel-level |
+| Medical | BrainMRI, BUSI, LiverCT | few-shot (1 / 2 / 4-shot), image- & pixel-level |
 
 ## 🔬 Methods
 
