@@ -3,11 +3,11 @@
 <h3 align="center">A Reproducible Benchmark of Few-Shot Anomaly Detection Methods for H2VLR</h3>
 
 <p align="center">
-  <a href="#-news"><b>News</b></a> •
-  <a href="#-overview"><b>Overview</b></a> •
-  <a href="#-methods"><b>Methods</b></a> •
-  <a href="#-start"><b>Start</b></a> •
-  <a href="#-email"><b>Email</b></a>
+  <a href="#news"><b>News</b></a> •
+  <a href="#overview"><b>Overview</b></a> •
+  <a href="#methods"><b>Methods</b></a> •
+  <a href="#start"><b>Start</b></a> •
+  <a href="#email"><b>Email</b></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
   <img alt="task" src="https://img.shields.io/badge/task-few--shot%20anomaly%20detection-purple">
   <img alt="domain" src="https://img.shields.io/badge/domain-industrial%20%7C%20medical-green">
   <a href="https://github.com/fayeH2/H2VLR-benchmarks"><img alt="stars" src="https://img.shields.io/github/stars/fayeH2/H2VLR-benchmarks?style=social"></a>
-  <img alt="license" src="https://img.shields.io/badge/license-see%20method%20subdirs-yellow">
 </p>
 
 This repository provides the **reproduction code of the comparison methods** used in the **H2VLR** project, covering both **industrial** and **medical** few-shot anomaly detection (FSAD). 
